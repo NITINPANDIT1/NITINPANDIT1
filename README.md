@@ -3,8 +3,8 @@
 
 
 
-## Thank you for visiting my profile! 😄
- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Thank you for visiting my profile! <img src="[https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R2dGk5azltaDVzMzlzanEweWxwc3Q5bTlvNWhrdGRwMHMxOHpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QsIgbvJpKUqpGtmEHJ/giphy_s.gif)" width="28px" height="28px" alt="hi">
+
 
 🚀 Check out my New Portfolio [xyz.com](https://xyz.com) 
 
