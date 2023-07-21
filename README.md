@@ -30,7 +30,7 @@ Mailbox: Reach me out!
 
 
 #### Bizness
-- paperclip: [My Resume/CV](https://github.com/NITINPANDIT1/NITINPANDIT1/blob/main/NiTIN%20SHARMA.pdf)
+- paperclip: [My Resume/CV](https://github.com/NITINPANDIT1/NITINPANDIT1/blob/main/Nitin_Sharma_Resume_21-07-2023-12-21-01.pdf)
 - email: niti816sharma@gmail.com
 
 
