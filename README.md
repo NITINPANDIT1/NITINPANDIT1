@@ -34,9 +34,6 @@ Mailbox: Reach me out!
 - email: niti816sharma@gmail.com
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=NITINPANDIT1/README.md)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinpandit1&label=Profile%20views&color=0e75b6&style=flat" alt="nitinpandit1" /> </p>
