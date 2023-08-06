@@ -9,8 +9,9 @@
 🚀 Check out my New 
 
 
-
+<section id="profile">
 #### [Portfolio](https://nitinpandit1.github.io)
+</section>
 
 I'm Nitin Sharma a Full Stack Web Developer . I Spend most of my time coding outstanding projects or learning new tech .
 
@@ -32,14 +33,12 @@ Reach me out!
 
 
 
-
-#### Bizness
-- paperclip: [My Resume/CV](https://github.com/NITINPANDIT1/NITINPANDIT1/blob/main/Nitin_Sharma_Resume_21-07-2023-12-21-01.pdf)
-- email: niti816sharma@gmail.com
+ [My Resume/CV](https://github.com/NITINPANDIT1/NITINPANDIT1/blob/main/Nitin_Sharma_Resume_21-07-2023-12-21-01.pdf)
 
 
-### Pinned Repositories
-
+<section id="pinned">
+### Project Repositories
+</section>section >
 #### [Mbalayang-Travel-Agency](https://github.com/NITINPANDIT1/mbalayang)
 
 A full-stack travel agency website where users can explore and book personalized travel packages. Built with React, Redux, MongoDB, and Chakra UI. Collaborative project executed by a team of 5 members.
