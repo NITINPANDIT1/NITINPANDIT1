@@ -6,11 +6,12 @@
 ## Thank you for visiting my profile!:smile:
 
 
-🚀 Check out my New Portfolio https://nitinpandit1.github.io
+🚀 Check out my New 
+#### [Portfolio](https://nitinpandit1.github.io)
 
 I'm Nitin Sharma a Full Stack Web Developer . I Spend most of my time coding outstanding projects or learning new tech .
 
-Mailbox: Reach me out!
+Reach me out!
 
  [![Mail Badge](https://img.shields.io/badge/-NitinSharma-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@NitinSharma-pk9yi) [![Linkedin Badge](https://img.shields.io/badge/-NitinSharma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-sharma-b72042132) [![Mail Badge](https://img.shields.io/badge/-@NitinBhardwaj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nitin_bhardwaj_1342/) [![Mail Badge](https://img.shields.io/badge/-NitinSharma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nitin816sharma@gmail.com)
 
