@@ -9,12 +9,11 @@
 🚀 Check out my New 
 
 
-<section id="profile">
 #### [Portfolio](https://nitinpandit1.github.io)
-</section>
+<hr>
 
 I'm Nitin Sharma a Full Stack Web Developer . I Spend most of my time coding outstanding projects or learning new tech .
-
+<hr>
 Reach me out!
 
  [![Mail Badge](https://img.shields.io/badge/-NitinSharma-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@NitinSharma-pk9yi) [![Linkedin Badge](https://img.shields.io/badge/-NitinSharma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-sharma-b72042132) [![Mail Badge](https://img.shields.io/badge/-@NitinBhardwaj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nitin_bhardwaj_1342/) [![Mail Badge](https://img.shields.io/badge/-NitinSharma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nitin816sharma@gmail.com)
@@ -22,7 +21,7 @@ Reach me out!
 
 
 
-
+<hr>
 ### What I currently Do
 
 - 🔭 I’m currently working on [Plant Ordering Web-App](https://64a940ff7ed34f6e792eb18b--fluffy-cocada-764c66.netlify.app/)
@@ -31,14 +30,16 @@ Reach me out!
 - 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, React, Redux, React-Router, Redux Thunk, Axios, Chakra UI**
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
-
+<hr>
 
  [My Resume/CV](https://github.com/NITINPANDIT1/NITINPANDIT1/blob/main/Nitin_Sharma_Resume_21-07-2023-12-21-01.pdf)
 
 
-<section id="pinned">
+<hr>
+
 ### Project Repositories
-</section>section >
+
+
 #### [Mbalayang-Travel-Agency](https://github.com/NITINPANDIT1/mbalayang)
 
 A full-stack travel agency website where users can explore and book personalized travel packages. Built with React, Redux, MongoDB, and Chakra UI. Collaborative project executed by a team of 5 members.
@@ -59,7 +60,7 @@ An e-commerce website for lifestyle products, including speakers, smart watches,
 Deployed: [Live Demo](https://cozy-kitten-74789c.netlify.app/products)
 Repo: [Git Repo](https://github.com/ShubhamRaut187/Project-Boatlifestyle-Clone-Masai-)
 
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinpandit1&label=Profile%20views&color=0e75b6&style=flat" alt="nitinpandit1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinpandit1" alt="nitinpandit1" /></a> </p>
