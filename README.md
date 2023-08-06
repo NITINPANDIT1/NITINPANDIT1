@@ -6,7 +6,7 @@
 ## Thank you for visiting my profile!:smile:
 
 
-🚀 Check out my New Portfolio [Nitin Sharma](https://nitinpandit1.github.io/)
+🚀 Check out my New Portfolio [https://nitinpandit1.github.io/]
 
 I'm Nitin Sharma a Full Stack Web Developer . I Spend most of my time coding outstanding projects or learning new tech .
 
@@ -34,6 +34,27 @@ Mailbox: Reach me out!
 - email: niti816sharma@gmail.com
 
 
+### Pinned Repositories
+
+#### [Mbalayang-Travel-Agency](https://github.com/NITINPANDIT1/mbalayang)
+
+A full-stack travel agency website where users can explore and book personalized travel packages. Built with React, Redux, MongoDB, and Chakra UI. Collaborative project executed by a team of 5 members.
+
+Deployed: [Live Demo](https://mbalayang.vercel.app/)
+Repo: [Git Repo](https://github.com/NITINPANDIT1/mbalayang)
+
+#### [Green Paradise](https://github.com/NITINPANDIT1/project--spiffy/tree/main)
+
+An eco-tourism website showcasing exotic destinations and eco-friendly travel options. Developed using React, Redux, JSON, and Chakra UI. Collaborative project executed by a team of 5 members.
+
+Deployed: [Live Demo](https://fluffy-cocada-764c66.netlify.app/)
+Repo: [Git Repo](https://github.com/NITINPANDIT1/project--spiffy/tree/main)
+
+#### [Blogging Platform](https://github.com/ShubhamRaut187/Project-Boatlifestyle-Clone-Masai-)
+An e-commerce website for lifestyle products, including speakers, smart watches, earbuds and accessories. Built using HTML, CSS, and JavaScript. Collaborative project executed by a team of 5 members.
+
+Deployed: [Live Demo](https://cozy-kitten-74789c.netlify.app/products)
+Repo: [Git Repo](https://github.com/ShubhamRaut187/Project-Boatlifestyle-Clone-Masai-)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinpandit1&label=Profile%20views&color=0e75b6&style=flat" alt="nitinpandit1" /> </p>
