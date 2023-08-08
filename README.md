@@ -1,42 +1,47 @@
-<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer - MERN Stack</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+</head>
+<body>
+  <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
+  <h3 align="center">A passionate Full Stack Developer - MERN Stack</h3>
 
+  <p align="center">Thank you for visiting my profile! 😄</p>
+  <p align="center"><a href="https://nitinpandit1.github.io">Check out my New Portfolio</a></p>
 
+  <hr>
 
-## Thank you for visiting my profile!:smile:
+  
 
+  
 
-🚀 Check out my New  [Portfolio](https://nitinpandit1.github.io)
+  <h3>Reach me out!</h3>
+  <p>
+    📹 <a href="https://youtube.com/@NitinSharma-pk9yi">YouTube</a>
+    &nbsp;&nbsp;&nbsp;
+    💼 <a href="https://www.linkedin.com/in/nitin-sharma-b72042132">LinkedIn</a>
+    &nbsp;&nbsp;&nbsp;
+    📸 <a href="https://www.instagram.com/nitin_bhardwaj_1342/">Instagram</a>
+    &nbsp;&nbsp;&nbsp;
+    ✉️ <a href="mailto:nitin816sharma@gmail.com">Email</a>
+  </p>
 
+  <hr>
 
+  <h3>What I currently Do</h3>
+  <ul>
+    <li>🔭 I’m currently working on <a href="https://64a940ff7ed34f6e792eb18b--fluffy-cocada-764c66.netlify.app/">Plant Ordering Web-App</a></li>
+    <li>📫 How to reach me: nitin816sharma@gmail.com.</li>
+    <li>🌱 I’m currently learning <strong>Next.js</strong></li>
+    <li>💬 Ask me about <strong>Java, DSA, HTML, CSS, JavaScript, React, Redux, React-Router, Redux Thunk, Axios, Chakra UI</strong></li>
+    <li>⚡ Fun fact: I play games and go to the GYM very often.</li>
+  </ul>
 
-<hr>
-
-I'm Nitin Sharma a Full Stack Web Developer . I Spend most of my time coding outstanding projects or learning new tech .
-<hr>
-Reach me out!
-
- [![Mail Badge](https://img.shields.io/badge/-NitinSharma-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@NitinSharma-pk9yi) [![Linkedin Badge](https://img.shields.io/badge/-NitinSharma-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-sharma-b72042132) [![Mail Badge](https://img.shields.io/badge/-@NitinBhardwaj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nitin_bhardwaj_1342/) [![Mail Badge](https://img.shields.io/badge/-NitinSharma-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nitin816sharma@gmail.com)
-
-
-
-
-<hr>
-### What I currently Do
-
-- 🔭 I’m currently working on [Plant Ordering Web-App](https://64a940ff7ed34f6e792eb18b--fluffy-cocada-764c66.netlify.app/)
-- 📫 How to reach me: nitin816sharma@gmail.com.
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, React, Redux, React-Router, Redux Thunk, Axios, Chakra UI**
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
-<hr>
-
- [My Resume/CV](https://github.com/NITINPANDIT1/NITINPANDIT1/blob/main/Nitin_Sharma_Resume_21-07-2023-12-21-01.pdf)
-
-
-<hr>
-
+  <hr>
+  
 ### Project Repositories
 
 
