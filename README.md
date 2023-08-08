@@ -20,7 +20,7 @@
 
   <h3>Reach me out!</h3>
   <p>
-    📹 <a href="https://youtube.com/@NitinSharma-pk9yi">YouTube</a>
+   
     &nbsp;&nbsp;&nbsp;
     💼 <a href="https://www.linkedin.com/in/nitin-sharma-b72042132">LinkedIn</a>
     &nbsp;&nbsp;&nbsp;
