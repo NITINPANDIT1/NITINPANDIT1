@@ -21,7 +21,7 @@
   <h3>Reach me out!</h3>
   <p>
    
-    &nbsp;&nbsp;&nbsp;
+ 
     💼 <a href="https://www.linkedin.com/in/nitin-sharma-b72042132">LinkedIn</a>
     &nbsp;&nbsp;&nbsp;
     📸 <a href="https://www.instagram.com/nitin_bhardwaj_1342/">Instagram</a>
