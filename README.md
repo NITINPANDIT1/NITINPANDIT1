@@ -6,11 +6,11 @@
  
 </head>
 <body>
-  <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
-  <h3 align="center">A passionate Full Stack Developer - MERN Stack</h3>
+  <h1 align="letf">Hi 👋, I'm Nitin Sharma</h1>
+  <h3 align="left">A passionate Full Stack Developer - MERN Stack</h3>
 
-  <p align="center">Thank you for visiting my profile! 😄</p>
-  <p align="center"><a href="https://nitinpandit1.github.io">Check out my New Portfolio</a></p>
+  <p align="left">Thank you for visiting my profile! 😄</p>
+  <p align="left"> Check out my <span><a href="https://nitinpandit1.github.io">New Portfolio</a></span></p>
 
   <hr>
 
@@ -19,15 +19,12 @@
   
 
   <h3>Reach me out!</h3>
-  <p>
-   
- 
     💼 <a href="https://www.linkedin.com/in/nitin-sharma-b72042132">LinkedIn</a>
     &nbsp;&nbsp;&nbsp;
     📸 <a href="https://www.instagram.com/nitin_bhardwaj_1342/">Instagram</a>
     &nbsp;&nbsp;&nbsp;
     ✉️ <a href="mailto:nitin816sharma@gmail.com">Email</a>
-  </p>
+  
 
   <hr>
 
