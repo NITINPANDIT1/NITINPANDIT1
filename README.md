@@ -10,7 +10,7 @@
   <h3 align="left">A passionate Full Stack Developer - MERN Stack</h3>
 
   <p align="left">Thank you for visiting my profile! 😄</p>
-  <p align="left"> Check out my <span><a href="https://nitinpandit1.github.io">New Portfolio</a></span></p>
+  <p align="left"> Check out my <span><a href="https://NITINPANDIT1.github.io">New Portfolio</a></span></p>
    <p align="left"> Download <span><a href="https://drive.google.com/file/d/1ogeR_CuagHTv7xA2Gg_nm1KBPe59zI8H/view?usp=drive_link" target ="_blank" >Resume</a></span></p>
   <hr>
 
