@@ -56,11 +56,11 @@ An eco-tourism website showcasing exotic destinations and eco-friendly travel op
 Deployed: [Live Demo](https://fluffy-cocada-764c66.netlify.app/)
 Repo: [Git Repo](https://github.com/NITINPANDIT1/project--spiffy/tree/main)
 
-#### [Electronics Store Web App ](https://github.com/ShubhamRaut187/Project-Boatlifestyle-Clone-Masai-)
+#### [Electronics Store Web App ](https://github.com/NITINPANDIT1/Project-Boatlifestyle-Clone-Masai-)
 An e-commerce website for lifestyle products, including speakers, smart watches, earbuds and accessories. Built using HTML, CSS, and JavaScript. Collaborative project executed by a team of 5 members.
 
 Deployed: [Live Demo](https://cozy-kitten-74789c.netlify.app/products)
-Repo: [Git Repo](https://github.com/ShubhamRaut187/Project-Boatlifestyle-Clone-Masai-)
+Repo: [Git Repo](https://github.com/NITINPANDIT1/Project-Boatlifestyle-Clone-Masai-)
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinpandit1&label=Profile%20views&color=0e75b6&style=flat" alt="nitinpandit1" /> </p>
